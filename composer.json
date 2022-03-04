@@ -2,7 +2,7 @@
     "name": "myappsample",
     "type": "library",
     "description": "My app sample test",
-    "keywords": ["log","logging"],
+    "keywords": ["test"],
     "homepage": "https://github.com/coopermp6/myappsamlple",
     "license": "MIT",
     "authors": [
